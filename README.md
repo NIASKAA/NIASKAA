@@ -1,7 +1,6 @@
 ### Hey I'm Alan aka NIASKA
 # Check out my website/portfolio [NIASKA's Portfolio][website]
 
-[![Website](https://niaskareactportfolio.herokuapp.com/)]
 
 ## As a Front-End Developer...
 - I'm currently learning Docker and best SEO practices
@@ -9,7 +8,7 @@
 - 2021 Goals: Finish all my projects and publish my app to the Apple store
 
 ### Connect with in in LinkedIn!
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="60px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br/>
 <br/>
@@ -31,10 +30,13 @@
 <br/>
 
 ### Projects I'm currently working on...
-[Premium-Bandai Gunpla Finder][PBGF]
+[Premium-Bandai Gunpla Finder][PBGF] 
+<br/>
 [Premium-Bandai Gunpla Finder React-Native Ver.][PGGFRN]
+<br/>
 [Gundam API][GundamAPI]
 
+[website]: https://niaskareactportfolio.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/alanniaska/
 [PBGF]: https://github.com/NIASKAA/premiumbandai
 [PBGFRN]: https://github.com/NIASKAA/premiumnative

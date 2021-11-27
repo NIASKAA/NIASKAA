@@ -31,6 +31,8 @@
 <img align="left" alt="GitHub" width="100px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/>
+<br/>
+<br/>
 
 ### Projects I'm currently working on...
 [Premium-Bandai Gunpla Finder][PBGF] 

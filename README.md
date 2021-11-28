@@ -5,7 +5,7 @@
 ## As a Front-End Developer...
 - I'm currently learning Docker and best SEO practices
 - I'm looking for a position as a Front-End Developer in the professional world
-- 2021 Goals: Finish all my projects and publish my app to the Apple store
+- 2021 Goals: Finish all my projects and publish my app to the Apple store and get a job
 
 ### Connect with me in LinkedIn!
 [<img align="left" alt="codeSTACKr | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]

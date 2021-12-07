@@ -40,10 +40,12 @@
 [Premium-Bandai Gunpla Finder React-Native Ver][PBGFRN]
 <br/>
 [Gundam API][GundamAPI]
+<br/>
+[Husbando-List][HusbandoList]
 
 [website]: https://niaskareactportfolio.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/alanniaska/
 [PBGF]: https://github.com/NIASKAA/premiumbandai
 [PBGFRN]: https://github.com/NIASKAA/premiumnative
 [GundamAPI]: https://github.com/NIASKAA/gundam-api
-[Husbando-List]: https://github.com/NIASKAA/HusbandoList/
+[HusbandoList]: https://github.com/NIASKAA/Husbando-List/

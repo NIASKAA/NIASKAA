@@ -46,3 +46,4 @@
 [PBGF]: https://github.com/NIASKAA/premiumbandai
 [PBGFRN]: https://github.com/NIASKAA/premiumnative
 [GundamAPI]: https://github.com/NIASKAA/gundam-api
+[Husbando-List]: https://github.com/NIASKAA/HusbandoList/

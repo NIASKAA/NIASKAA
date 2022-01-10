@@ -5,7 +5,7 @@
 ## As a Front-End Developer...
 - I'm currently learning Docker, Sass and best SEO practices
 - I'm looking for a position as a Front-End Developer in the professional world
-- 2021 Goals: Finish all my projects, publish my app to the Apple store and get a job
+- 2022 Goals: Get a job as a front-end developer and make more cool things!
 
 ### Connect with me in LinkedIn!
 [<img align="left" alt="codeSTACKr | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -39,13 +39,11 @@
 <br/>
 [Premium-Bandai Gunpla Finder React-Native Ver][PBGFRN]
 <br/>
-[Gundam API][GundamAPI]
-<br/>
 [Husbando-List][HusbandoList]
 
 [website]: https://niaskareactportfolio.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/alanniaska/
 [PBGF]: https://github.com/NIASKAA/premiumbandai
 [PBGFRN]: https://github.com/NIASKAA/premiumnative
-[GundamAPI]: https://github.com/NIASKAA/gundam-api
 [HusbandoList]: https://github.com/NIASKAA/Husbando-List/
+

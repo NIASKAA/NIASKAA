@@ -1,12 +1,6 @@
 ### Hey I'm Alan aka NIASKA
 # Check out my website/portfolio [NIASKA's Portfolio][website]
 
-
-## As a Front-End Developer...
-- I'm currently learning Docker, Sass and best SEO practices
-- I'm looking for a position as a Front-End Developer in the professional world
-- 2022 Goals: Get a job as a front-end developer and make more cool things!
-
 ### Connect with me in LinkedIn!
 [<img align="left" alt="codeSTACKr | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
